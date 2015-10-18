@@ -1,7 +1,7 @@
 name: rextrucks
 favicon: null
-layout_spectrum: 0.27729451889172196
-typography_spectrum: 0.5401254571042955
+layout_spectrum: 0.5836
+typography_spectrum: 0.86186
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#1c1c1c'
     - '#cbcac6'
   brandStrength: 0.2687807746697217
-  lightness: 0.6160364381503314
-  saturation: 0.3453742419369519
+  lightness: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.9843682358041406
 purpose: []
