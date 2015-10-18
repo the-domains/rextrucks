@@ -1,9 +1,7 @@
-favicon: null
 name: rextrucks
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5394265
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.516129
-  brandStrength: 0.3691756
-  lightness: 0.6875
   brandColors:
     - '#FFFFFF'
     - '#17161E'
     - '#C7B39A'
     - '#A55B26'
     - '#667688'
+  brandStrength: 0.3691756
+  lightness: 0.6875
+  saturation: 0.516129
   rhythmicContrast: 1
-typography_spectrum: 1
-layout_spectrum: 0.5394265
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
